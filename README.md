@@ -1,5 +1,5 @@
-### `Spotify-Clone`
-A Spotify Clone developed using React Js with the help of Context API and Spotify Web API
+# `Spotify-Clone`
+A Spotify Clone developed using `React Js` with the help of `Context API` and `Spotify Web API` .
 
 ### `Features`
 - Would get all of your Spotify playlists and one can play any song as they like.
